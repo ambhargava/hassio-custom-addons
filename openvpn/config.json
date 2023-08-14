@@ -6,6 +6,7 @@
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
     "url": "https://github.com/rafa400/hassio-addon-experiments",
     "startup": "application",
+    "init": "false",
     "boot": "auto",
     "options": {
         "ovpn_file": ""
